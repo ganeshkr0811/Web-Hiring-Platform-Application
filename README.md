@@ -1,5 +1,7 @@
 # Web Hiring Platform Application
 
+
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [Features](#features)
@@ -8,6 +10,11 @@
 
 
 ---
+Developer Detail:
+
+- Name: Ganesh Kumar
+- Branch : Chemical Engineering, NIT Jalandhar
+- Email: ganeshkr0811@gmail.com
 
 ### Objective
 
@@ -62,6 +69,9 @@ To run the application locally:
    ```bash
      npm install
    
-3. **to run locallu**:
+3. **to run locally**:
    ```bash
       npm run dev
+
+
+
