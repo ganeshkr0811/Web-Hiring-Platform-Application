@@ -9,6 +9,7 @@
 4. [Installation](#installation)
 
 
+
 ---
 Developer Detail:
 
@@ -72,4 +73,8 @@ To run the application locally:
 3. **to run locally**:
    ```bash
       npm run dev
+   
+### Video Link
+https://www.loom.com/share/37781e6c07754744a3fc0eeb5c021e92
+
 
