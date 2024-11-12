@@ -52,9 +52,9 @@ The **Web Hiring Platform Application** is a React-based solution designed to he
 
 ### Tech Stack
 
-- **Frontend**: React, React Router, Redux (or React Context API)
+- **Frontend**: React, React Router, Redux, Typescript (or React Context API)
 - **UI Library**: Material-UI or Ant Design for a polished, consistent look
-- **Mock Data Storage**: Local storage or mock APIs (optional: basic backend for data persistence)
+
 
 ### Installation
 
@@ -72,6 +72,4 @@ To run the application locally:
 3. **to run locally**:
    ```bash
       npm run dev
-
-
 
