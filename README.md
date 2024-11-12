@@ -57,3 +57,11 @@ To run the application locally:
    ```bash
    git clone https://github.com/ganeshkr0811/Web-Hiring-Platform-Application
    cd web-hiring-platform
+
+2. **Add node modules**:
+   ```bash
+     npm install
+   
+3. **to run locallu**:
+   ```bash
+      npm run dev
